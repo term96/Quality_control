@@ -1,0 +1,9 @@
+http://newtours.demoaut.com/ - 200 OK
+http://newtours.demoaut.com/mercurywelcome.php?osCsid=e09a5e0ab8beb3b5ca31358432249768 - 200 OK
+http://newtours.demoaut.com/mercuryreservation.php?osCsid=e09a5e0ab8beb3b5ca31358432249768 - 200 OK
+http://newtours.demoaut.com/mercuryunderconst.php?osCsid=e09a5e0ab8beb3b5ca31358432249768 - 200 OK
+http://newtours.demoaut.com/mercurycruise.php?osCsid=e09a5e0ab8beb3b5ca31358432249768 - 200 OK
+http://newtours.demoaut.com/mercurysignon.php?osCsid=e09a5e0ab8beb3b5ca31358432249768 - 200 OK
+http://newtours.demoaut.com/mercuryregister.php?osCsid=e09a5e0ab8beb3b5ca31358432249768 - 200 OK
+Количество ссылок: 7
+Время завершения проверки: 2017-09-25 21:51:39.109

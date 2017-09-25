@@ -1,2 +1,4 @@
 java -jar CheckLinks.jar <URL>
 Содержимое файлов all_links.txt и corrupted_links.txt - результат проверки на сайте https://liberta.ru.com/
+Содержимое файлов all_links2.txt и corrupted_links2.txt - результат проверки на сайте Http://Thedemosite.Co.Uk/
+Содержимое файлов all_links3.txt и corrupted_links3.txt - результат проверки на сайте Http://Newtours.Demoaut.Com/

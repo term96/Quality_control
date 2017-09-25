@@ -1,0 +1,35 @@
+http://thedemosite.co.uk/ - 200 OK
+http://asp.thedemosite.co.uk/ - 200 OK
+http://php.thedemosite.co.uk/ - 200 OK
+http://thedemosite.co.uk/phpformmailer/ - 200 OK
+http://asp.thedemosite.co.uk/asp_contact_email_form/asp_contact_email_form.asp - 200 OK
+http://thedemosite.co.uk/index.php - 200 OK
+http://thedemosite.co.uk/thedatabase.php - 200 OK
+http://thedemosite.co.uk/addauser.php - 200 OK
+http://thedemosite.co.uk/login.php - 200 OK
+http://thedemosite.co.uk/getyourowndbonline.php - 200 OK
+http://thedemosite.co.uk/demo-code.zip - Ссылка содержит MIME-тип application/zip
+http://asp.thedemosite.co.uk - 200 OK
+http://asp.thedemosite.co.uk/index.asp - 200 OK
+http://asp.thedemosite.co.uk/thedatabase.asp - 200 OK
+http://asp.thedemosite.co.uk/addauser.asp - 200 OK
+http://asp.thedemosite.co.uk/login.asp - 200 OK
+http://asp.thedemosite.co.uk/getyourowndbonline.asp - 200 OK
+http://php.thedemosite.co.uk/index.php - 200 OK
+http://php.thedemosite.co.uk/thedatabase.php - 200 OK
+http://php.thedemosite.co.uk/addauser.php - 200 OK
+http://php.thedemosite.co.uk/login.php - 200 OK
+http://php.thedemosite.co.uk/getyourowndbonline.php - 200 OK
+http://php.thedemosite.co.uk/demo-code.zip - Ссылка содержит MIME-тип application/zip
+http://thedemosite.co.uk/phpformmailer/source_code_php_form_mailer_more_secure_than_cgi_form_mailers.php - 200 OK
+http://www.thedemosite.co.uk/phpformmailer/phpFormMailer.zip - Ссылка содержит MIME-тип application/zip
+http://asp.thedemosite.co.uk/asp_contact_email_form/asp_contact_email_form_code.asp - 200 OK
+http://asp.thedemosite.co.uk/asp-contact-us.zip - Ссылка содержит MIME-тип application/x-zip-compressed
+http://thedemosite.co.uk/addausercode.php - 200 OK
+http://thedemosite.co.uk/logincode.php - 200 OK
+http://asp.thedemosite.co.uk/addausercode.asp - 200 OK
+http://asp.thedemosite.co.uk/logincode.asp - 200 OK
+http://php.thedemosite.co.uk/addausercode.php - 200 OK
+http://php.thedemosite.co.uk/logincode.php - 200 OK
+Количество ссылок: 33
+Время завершения проверки: 2017-09-25 21:50:16.309
