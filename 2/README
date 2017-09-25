@@ -1,1 +1,2 @@
 java -jar CheckLinks.jar <URL>
+Содержимое файлов all_links.txt и corrupted_links.txt - результат проверки на сайте https://liberta.ru.com/

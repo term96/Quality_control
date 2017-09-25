@@ -58,9 +58,6 @@ public class CheckLinks {
         uncheckedUrls.add(args[0].toLowerCase());
 
         for (int i = 0; i < uncheckedUrls.size(); i++) {
-            if (i == 50) {
-                break;
-            }
             System.out.println(CHECKING + (i + 1));
             checkUrl(uncheckedUrls.get(i));
         }
